@@ -3,7 +3,7 @@ import webImg2 from "../assets/img/r1.png";
 import webImg3 from "../assets/img/d1.png";
 import desImg1 from "../assets/img/m1.png";
 import desImg2 from "../assets/img/f1.png";
-import desImg3 from "../assets/img/c1.jpg";
+import desImg3 from "../assets/img/h1.png";
 
 export const webProjects = [
   {
